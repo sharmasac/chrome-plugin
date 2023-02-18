@@ -1,0 +1,10 @@
+{
+  "short_name": "React App",
+  "name": "youtube video downloader",
+  "manifest_version": 3,
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo512.png"
+  }
+}
